@@ -1,4 +1,4 @@
-I'm a software engineer and CS student at Stanford. Check out some of my work below:
+I'm a CS student at Stanford. Check out some of my work below:
 
 <!--
 **RyanLe2003/RyanLe2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
